@@ -1,4 +1,0 @@
-
-
-print("tets.txt");
-
