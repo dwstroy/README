@@ -1,4 +1,4 @@
 
 
-print("tetstx");
+print("tets.txt");
 
